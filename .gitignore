@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Data and Models (Too large for Git)
+data/
+legal-ner-model*/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
